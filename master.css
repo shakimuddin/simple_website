@@ -1,0 +1,10 @@
+body{
+  width: 900px;
+  margin: 10px auto;
+}
+*{
+  margin:0;
+}
+table td h1 {
+  padding-left: 30px;
+}
